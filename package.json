@@ -22,6 +22,9 @@
 		"version:beta": "pnpm version prerelease --preid=beta",
 		"publish:beta": "pnpm publish --tag beta"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
 	"husky": {
 		"hooks": {
 			"pre-commit": "tsdx lint"
