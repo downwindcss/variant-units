@@ -76,3 +76,7 @@ Following class `em:w-4` will apply `1em` instead of `1rem`.
 ```
 
 If you were to use `%:w-4`, it will be `1%`.
+
+## Example
+
+https://codesandbox.io/s/variant-units-e6c5c
