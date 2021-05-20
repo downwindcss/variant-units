@@ -1,12 +1,11 @@
 {
+	"name": "@downwindcss/variant-units",
+	"author": "dance2die",
 	"version": "0.0.1-alpha.0",
 	"license": "MIT",
 	"main": "dist/index.js",
 	"typings": "dist/index.d.ts",
-	"files": [
-		"dist",
-		"src"
-	],
+	"files": [ "dist", "src" ],
 	"engines": {
 		"node": ">=10"
 	},
@@ -34,8 +33,6 @@
 		"singleQuote": true,
 		"trailingComma": "es5"
 	},
-	"name": "variant-units",
-	"author": "dance2die",
 	"module": "dist/variant-units.esm.js",
 	"size-limit": [
 		{
